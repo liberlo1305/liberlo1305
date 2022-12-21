@@ -1,16 +1,34 @@
 ### Hi there 👋
 
-<!--
-**liberlo1305/liberlo1305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Heading
 
-Here are some ideas to get you started:
+# heading1
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## heading2
+
+### heading3
+
+#### heading4
+
+##### heading5
+
+**볼드**<br>
+*이탤릭*<br>
+~~스트라이크스로우~~<br>
+
+> 이건 인용구
+
+* 1번
+* 2번
+- 1번
+- 2번
+
+[네이버](https://www.naver.com)
+
+```
+print('파이썬')
+```
+
+:smirk:
+:joy:
+:rage:
