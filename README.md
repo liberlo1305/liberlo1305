@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=JBK's directory& 👋&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=JBK's directory&fontSize=90)
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=liberlo1305)](https://github.com/liberlo1305)
 
