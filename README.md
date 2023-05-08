@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=프로그래밍 연습하고 있습니다.&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=JBK's directory 👋&fontSize=90)
+
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=liberlo1305)](https://github.com/liberlo1305)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liberlo1305)](https://github.com/liberlo1305/github-readme-stats)
